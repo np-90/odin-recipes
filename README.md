@@ -1,0 +1,1 @@
+This is my first HTML project with The Odin Project. It's a basic HTML site using standard HTML. I should not get tripped up by any of it as I have an understanding of HTML already.
