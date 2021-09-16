@@ -1,0 +1,48 @@
+* {
+    background-color: paleturquoise;
+    font-family: Georgia, sans-serif;
+}
+
+h1 {
+    font-family: Georgia;
+}
+
+.main,
+.recipe-picture {
+    border-color: palegreen;
+    border-width: 10px;
+    border-style: solid;
+    width: 50%;
+}
+
+.ingredients {
+    padding: 10px;
+    border-width: 2px;
+    border-style: dotted;
+    width: 50%;
+}
+
+li a {
+    color: red;
+}
+
+.flag {
+    padding: 5px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.flag.left {
+    background-color: #008C45;
+    color: white;
+}
+
+.flag.middle {
+    background-color: #F4F5F0;
+}
+
+.flag.right {
+    background-color: #CD212A;
+    color: white;
+}
